@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="sev1"/>
+    <item type="id" name="sev2"/>
+    <item type="id" name="sev3"/>
+    <item type="id" name="sev4"/>
+    <item type="id" name="sev5"/>
+    <item type="id" name="sev6"/>
+    <item type="id" name="sev7"/>
+    <item type="id" name="sev8"/>
+    <item type="id" name="sev9"/>
+    <item type="id" name="sev10"/>
+    <item type="id" name="sev11"/>
+    <item type="id" name="sev12"/>
+    <item type="id" name="sev13"/>
+    <item type="id" name="sev14"/>
+    <item type="id" name="sev15"/>
+
+    <item type="id" name="spitak1"/>
+    <item type="id" name="spitak2"/>
+    <item type="id" name="spitak3"/>
+    <item type="id" name="spitak4"/>
+    <item type="id" name="spitak5"/>
+    <item type="id" name="spitak6"/>
+    <item type="id" name="spitak7"/>
+    <item type="id" name="spitak8"/>
+    <item type="id" name="spitak9"/>
+    <item type="id" name="spitak10"/>
+    <item type="id" name="spitak11"/>
+    <item type="id" name="spitak12"/>
+    <item type="id" name="spitak13"/>
+    <item type="id" name="spitak14"/>
+    <item type="id" name="spitak15"/>
+
+    <item type="id" name="qayl1"/>
+    <item type="id" name="qayl2"/>
+
+</resources>
